@@ -1,6 +1,6 @@
 # mainmenu a python3 database 
 A menu system for media files in folders named Movies, TV Shows and Prograsmming. 
-The media91.py will scan a folder for sub folders named Movies, TV Shows and Programming. 
+The media01.py will scan a folder for sub folders named Movies, TV Shows and Programming. 
 All found media files will be entered into an Mysql Database. 
 maindisplay.py will display a menu with the three tables listed for selection. 
 After selecring a table you are presented with a display that contains a combo box filled from the table. 
